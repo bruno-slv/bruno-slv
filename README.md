@@ -5,7 +5,5 @@
 - 😄 Pronouns: He/Him
 
 #### Recent Stuff
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
+[![bruno-slv's github stats](https://github-readme-stats.vercel.app/api?username=bruno-slv)](https://github.com/bruno-slv/github-readme-stats)
 ---
