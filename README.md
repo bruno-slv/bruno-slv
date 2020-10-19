@@ -6,6 +6,6 @@
 
 #### Recent Stuff
 <!--START_SECTION:activity-->
-<!--GITHUB_ACTIVITY:{"rows": 3}-->
+
 <!--END_SECTION:activity-->
 ---
