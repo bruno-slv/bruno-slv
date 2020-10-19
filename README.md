@@ -5,4 +5,4 @@
 - 😄 Pronouns: He/Him
 
 #### Recent Stuff
-<!--GITHUB_ACTIVITY:{"rows": 6 "raw":true}>
+GITHUB_ACTIVITY:{"rows": 6 "raw":true}
