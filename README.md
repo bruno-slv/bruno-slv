@@ -5,5 +5,7 @@
 - 😄 Pronouns: He/Him
 
 #### Recent Stuff
-GITHUB_ACTIVITY:{"rows": 3, "raw":true}
+<!--START_SECTION:activity-->
+<!--GITHUB_ACTIVITY:{"rows": 3}-->
+<!--END_SECTION:activity-->
 ---
