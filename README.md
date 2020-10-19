@@ -1,4 +1,4 @@
-### Hi there  <img src="giphy-unscreen.gif" width="auto" height="18px">
+### Hello stranger  <img src="giphy-unscreen.gif" width="auto" height="25px">
  
 - 🌱 I’m currently learning Functional Programming With JavaScript 
 - 📫 How to reach me: [linkendin](https://www.linkedin.com/in/bruno-henrique-ba52151ba/)
