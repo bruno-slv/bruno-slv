@@ -1,7 +1,6 @@
-### Hello stranger  <img src="giphy-unscreen.gif" width="20px" margin-left="5px">
+### Hello there  <img src="giphy-unscreen.gif" width="20px" margin-left="5px">
  
 - 🌱 I’m currently learning Functional Programming With JavaScript 
-- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/bruno-henrique-ba52151ba/)
 - 😄 Pronouns: He/Him
 
 #### Recent Stuff
