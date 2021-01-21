@@ -1,8 +1,10 @@
-### Hello there  <img src="giphy-unscreen.gif" width="20px" margin-left="5px">
+# Hello There :ok_hand:
  
-- 🌱 I’m currently learning Functional Programming With JavaScript 
-- 😄 Pronouns: He/Him
+- 🌱 I’m currently learning Front End Development
 
 #### Recent Stuff
 \
-[![bruno-slv's github stats](https://github-readme-stats.vercel.app/api?username=bruno-slv&theme=dracula)](https://github.com/bruno-slv/github-readme-stats)
+[![bruno-slv's github stats](https://github-readme-stats.vercel.app/api?username=bruno-slv&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-slv)](https://github.com/anuraghazra/github-readme-stats)
