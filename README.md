@@ -4,10 +4,8 @@
 
 ## Skills
 
-<img src="JS.png" />
-<img src="CSS.png" />
-<img src="HTML.png" />
+<img src="skills.png" />
 
 # Stats
 
-[![bruno-slv's github stats](https://github-readme-stats.vercel.app/api?username=bruno-slv&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![bruno-slv's github stats](https://github-readme-stats.vercel.app/api?username=bruno-slv&bg_color=212121&title_color=F7DF1E&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
